@@ -1,0 +1,11 @@
+Job Title: Frontend Developer (React)
+Company: Swiggy
+
+Job Description:
+We are looking for a Frontend Developer to build fast, responsive customer facing applications using React.
+
+Requirements:
+- 2+ years of experience with JavaScript/TypeScript and React
+- Strong understanding of HTML, CSS and responsive design
+- Experience with state management libraries like Redux
+- Familiarity with Git and modern frontend tooling

@@ -1,0 +1,12 @@
+Job Title: Backend Developer (Java)
+Company: Paytm
+
+Job Description:
+We are hiring a Backend Developer to design and build scalable microservices for our payments platform. You will work closely with the platform and infra teams.
+
+Requirements:
+- 3+ years of experience with Java and Spring Boot
+- Experience designing REST APIs and microservices
+- Good understanding of SQL and relational databases
+- Experience with Docker and Kubernetes preferred
+- Familiarity with AWS or other cloud platforms
